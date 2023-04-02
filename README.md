@@ -5,7 +5,7 @@
 ### Deliveries Dashboard
 <sub>*Files of this project can be found here: [pbit](https://github.com/andreluiz901/power_bi/blob/main/deliveries_BI_portfolio.pbit), [pbix](https://github.com/andreluiz901/power_bi/blob/main/deliveries_BI_portfolio.pbix), or [pdf](https://github.com/andreluiz901/power_bi/blob/main/deliveries_BI_portfolio.pdf)*</sub>
 
-![Deliveries Dashboard](https://github.com/andreluiz901/power_bi/blob/main/deliveries_BI_portfolio-1.png)
+<IMG SRC="https://github.com/andreluiz901/power_bi/blob/main/deliveries_dashboard_demonstration.gif">
 
 A delivery center manages to take materials, deliveries or inputs in an integrated ecosystem in regions or even an entire country. Deliveries to retailers and partners in all these locations generate data at all times, and this Dashboard allows you to control, visualize and understand the business in real time.
 
@@ -28,3 +28,5 @@ A delivery center manages to take materials, deliveries or inputs in an integrat
 * Revenue by state
 
 * canceled orders
+
+![Deliveries Dashboard](https://github.com/andreluiz901/power_bi/blob/main/deliveries_BI_portfolio-1.png)
